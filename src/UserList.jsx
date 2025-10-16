@@ -63,7 +63,7 @@ function UserList(){
                             
                             ))
                             :<tr><td>No records found</td></tr>
-                            :<tr className="text-canter"><td colSpan="6">Loading...</td></tr>
+                            :<tr className="text-canter"><td colSpan="6">Wait...</td></tr>
                     
                    
                     }
